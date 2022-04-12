@@ -11,6 +11,7 @@
 # Common
 pom.xml.versionsBackup
 target/
+dist/
 .DS_Store
 __MACOSX
 cef_bundle/ 
